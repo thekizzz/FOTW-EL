@@ -105,6 +105,12 @@ img{max-width:100%}
   .wrap{padding:16px 12px 80px}
   .hero{padding:22px 18px}
   .hero h1{font-size:21px}
+  /* filter: thanh cuộn ngang 1 hàng (native app style) */
+  .chips-wrap{margin-bottom:18px;margin-left:-12px;margin-right:-12px}
+  .chips-lbl{padding:0 12px}
+  .chips{flex-wrap:nowrap;overflow-x:auto;scroll-snap-type:x proximity;padding:2px 12px 8px;-webkit-overflow-scrolling:touch;scrollbar-width:none}
+  .chips::-webkit-scrollbar{display:none}
+  .chip{scroll-snap-align:start;flex-shrink:0;padding:9px 15px}
   .grid{grid-template-columns:1fr 1fr;gap:11px}
   .card .bd{padding:10px 11px}
   .card .nm{font-size:13.5px}
