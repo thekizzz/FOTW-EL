@@ -187,7 +187,7 @@ function renderGrid(){
   document.getElementById("grid").innerHTML=list.map(f=>`
     <div class="card" onclick="openDetail('${f.slug}')">
       <div class="thumb">
-        <div class="badge ${f.done?'':'todo'}">${f.done?'✓ Full':'list'}</div>
+        ${f.done?'':'<div class="badge todo">soon</div>'}
         ${f.thumb?`<img src="${f.thumb}" loading="lazy" onerror="this.style.display='none';this.parentNode.innerHTML+='<div class=em>${f.emoji||'📋'}</div>'">`:`<div class="em">${f.emoji||'📋'}</div>`}
       </div>
       <div class="bd"><div class="nm">${f.emoji||''} ${f.name}</div><div class="ty">${f.rawType}</div></div>
