@@ -1,0 +1,3 @@
+# giữ data (cần cho build), bỏ temp
+*.tmp
+.DS_Store
