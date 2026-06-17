@@ -41,11 +41,18 @@ img{max-width:100%}
 .hero{background:linear-gradient(120deg,#7c3aed,#db2777);border-radius:var(--radius);padding:30px 28px;color:#fff;margin-bottom:20px;box-shadow:var(--shadow)}
 .hero h1{font-size:26px;font-weight:800;margin-bottom:6px}
 .hero p{opacity:.92;font-size:14.5px}
-/* ---- FILTER CHIPS ---- */
-.chips{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:20px}
-.chip{background:var(--card);border:1px solid var(--line);border-radius:20px;padding:7px 15px;font-size:13.5px;color:var(--ink2);cursor:pointer;transition:.15s;white-space:nowrap;user-select:none;font-weight:500}
-.chip:hover{border-color:var(--accent)}
-.chip.on{background:var(--ink);border-color:var(--ink);color:#fff}
+/* ---- FILTER CHIPS (premium) ---- */
+.chips-wrap{margin-bottom:22px}
+.chips-lbl{font-size:12px;font-weight:700;letter-spacing:.6px;text-transform:uppercase;color:var(--ink2);margin-bottom:11px;display:flex;align-items:center;gap:7px}
+.chips-lbl::before{content:"";width:18px;height:2px;background:linear-gradient(90deg,var(--accent2),var(--accent));border-radius:2px}
+.chips{display:flex;gap:9px;flex-wrap:wrap}
+.chip{display:inline-flex;align-items:center;gap:7px;background:var(--card);border:1px solid var(--line);border-radius:12px;padding:8px 14px;font-size:13.5px;color:#374151;cursor:pointer;
+  transition:transform .15s cubic-bezier(.34,1.56,.64,1),box-shadow .2s,border-color .2s,background .2s;white-space:nowrap;user-select:none;font-weight:600;box-shadow:0 1px 2px rgba(0,0,0,.03)}
+.chip .ico{font-size:15px;line-height:1}
+.chip .cnt{font-size:11.5px;font-weight:700;background:var(--bg);color:var(--ink2);border-radius:8px;padding:1px 7px;min-width:20px;text-align:center;transition:.2s}
+.chip:hover{border-color:#c7d2fe;transform:translateY(-2px);box-shadow:0 6px 16px rgba(79,70,229,.12)}
+.chip.on{background:linear-gradient(135deg,#7c3aed,#4f46e5);border-color:transparent;color:#fff;box-shadow:0 6px 18px rgba(99,102,241,.35);transform:translateY(-1px)}
+.chip.on .cnt{background:rgba(255,255,255,.22);color:#fff}
 /* ---- GRID ---- */
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(280px,1fr));gap:16px}
 .card{background:var(--card);border:1px solid var(--line);border-radius:var(--radius);overflow:hidden;cursor:pointer;transition:.18s;box-shadow:var(--shadow);display:flex;flex-direction:column}
@@ -134,7 +141,7 @@ img{max-width:100%}
 </div>
 <div class="wrap" id="home">
   <div class="hero"><h1>Funnel Library 🔬</h1><p id="heroSub"></p></div>
-  <div class="chips" id="chips"></div>
+  <div class="chips-wrap"><div class="chips-lbl">Lọc theo loại funnel</div><div class="chips" id="chips"></div></div>
   <div class="grid" id="grid"></div>
 </div>
 
@@ -157,12 +164,13 @@ img{max-width:100%}
 const DATA = __DATA__;
 let activeType="all", search="", curFunnel=null, flatLessons=[], curIdx=0;
 
+const TYPE_ICON={"eCom":"🛒","Info Product":"📘","Quiz":"❓","Advertorial":"📰","VSL":"🎬","eCom Quiz":"🛒","Advertorial Quiz":"📰","Book":"📚","SaaS":"💻","Call":"📞","Agency":"🏢","Lead Gen":"🎯"};
 function typeCounts(){const c={};DATA.funnels.forEach(f=>c[f.type]=(c[f.type]||0)+1);return c;}
 function renderChips(){
   const c=typeCounts(), types=Object.keys(c).sort((a,b)=>c[b]-c[a]);
-  document.getElementById("chips").innerHTML=
-    `<span class="chip ${activeType==='all'?'on':''}" onclick="setType('all')">Tất cả · ${DATA.funnels.length}</span>`+
-    types.map(t=>`<span class="chip ${activeType===t?'on':''}" onclick="setType('${t}')">${t} · ${c[t]}</span>`).join("");
+  const all=`<span class="chip ${activeType==='all'?'on':''}" onclick="setType('all')"><span class="ico">🗂️</span>Tất cả<span class="cnt">${DATA.funnels.length}</span></span>`;
+  document.getElementById("chips").innerHTML=all+
+    types.map(t=>`<span class="chip ${activeType===t?'on':''}" onclick="setType('${t}')"><span class="ico">${TYPE_ICON[t]||'📋'}</span>${t}<span class="cnt">${c[t]}</span></span>`).join("");
 }
 function setType(t){activeType=t;renderChips();renderGrid();}
 function onSearch(v){search=v.toLowerCase();renderGrid();}
