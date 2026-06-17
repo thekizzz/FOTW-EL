@@ -1,227 +1,421 @@
 {
- "brand": "Nuora",
  "slug": "nuora",
- "type": "eCom Funnel",
- "website": "mynuora.com",
- "lessons": [
+ "spaceId": 2689674,
+ "emoji": "💛",
+ "name": "Nuora - eCom Funnel",
+ "sections": [
   {
-   "section": "Funnel Breakdown",
-   "title": "Funnel Details",
-   "lesson_id": "4036288",
-   "text": "Lesson 1 of 18 🕵️ Funnel Details ℹ️ Key details on the funnel Brand: Nuora Website: https://mynuora.com/ Category: eCommerce, Supplements Minimum order value: $40.99 Advertiser profiles: Meta Ads 🔍 Follow the funnel flow below 👇 Zoom in and out to explore all the details of this funnel",
-   "images": [],
-   "iframes": [
-    "https://drive.google.com/file/d/1uWj4Qs5RhaBxnA7EdpSF0ofVWkCC4XDa/preview",
-    "https://miro.com/app/live-embed/uXjVHEsRjkI=/?share_link_id=328145553804&embedId=228027082850&embedSource=oembed&embedMode=view_only_without_ui"
+   "name": "Nuora Funnel Breakdown",
+   "lessons": [
+    {
+     "id": 4036288,
+     "title": "🕵️ Funnel Details",
+     "text": "ℹ️ Key details on the funnel\nBrand: Nuora\nWebsite: https://mynuora.com/\nCategory: eCommerce, Supplements\nMinimum order value: $40.99\nAdvertiser profiles: Meta Ads\n\n🔍 Follow the funnel flow below 👇\nZoom in and out to explore all the details of this funnel",
+     "media": [
+      {
+       "type": "embed",
+       "url": "https://miro.com/app/board/uXjVHEsRjkI=/?share_link_id=328145553804"
+      }
+     ]
+    },
+    {
+     "id": 4036289,
+     "title": "📊 Traffic Overview (Similarweb)",
+     "text": "- Monthly Visits: 233.2K\n- Bounce Rate: 44.01%\n- Pages per Visit: 3.36\n- Avg. Visit Duration: 00:01:39\n233K monthly visits is solid for a supplement brand in this niche. For context, most of the brands we cover in the vaginal health and feminine wellness space are sitting between 50K and 300K. What stands out here is the 44% bounce rate, which is actually quite low. That tells me people who land on this site are engaged enough to click deeper, which makes sense when you look at the simplicity of their page structure, there is not much to get lost in.\n🌍 TOP COUNTRIES\n- 🇺🇸 United States: 60.88%\n- 🇩🇪 Germany: 5.39%\n- 🇬🇧 United Kingdom: 4.54%\n- 🇱🇻 Latvia: 3.5%\n- 🇦🇺 Australia: 2.57%\n60.88% US is interesting because that is lower than what we typically see for US-focused DTC supplement brands. COMFRT was at 84%. UNDRDOG at 95%+. Nuora at 60.88% means they are pulling significant traffic from international markets. \nGermany at 5.39% and Latvia at 3.5% jumped out to me. Latvia is a small country, so 3.5% of traffic from there suggests either a concentrated pocket of customers, an affiliate driving traffic, or a founder connection. That is worth investigating because it could signal an untapped European expansion opportunity.\n📈 TRAFFIC SOURCES\n- Direct: 28.47%\n- Referrals: 23.08%\n- Social Paid: 16.48%\n- Search Organic: 12.33%\n- Display Ads: 7.32%\n- Social Organic: 7.22%\n- Search Paid: 3.59%\n- Email: 1.31%\n- Gen AI: 0.2%\n- Affiliate: 0%\nThis traffic mix tells a story. Direct at 28.47% means people are typing mynuora.com into their browser. That is strong brand recall for a brand at this scale. But the number that really caught our eye is referrals at 23.08%. That is the second largest traffic source. For comparison, most DTC brands we cover have referrals under 5%. This suggests Nuora is getting significant traffic from third party review sites, health blogs, or their advertorial funnels, which we will get into later.\nSocial paid at 16.48% is the third largest channel. That is in line with what you would expect for a brand running Meta ads as their primary acquisition channel. But here is the thing: search paid is only 3.59% and email is only 1.31%. That email number is very low. For a brand doing 233K monthly visits, having email at 1.31% means they are leaving significant retention revenue on the table. COMFRT was at 15.52% email. Neurotoned at 42%. Nuora at 1.31% suggests they have not built out their Klaviyo flows yet, which is a massive opportunity.\nGen AI at 0.2% is also interesting. It is a small number but it means people are finding Nuora through AI search. That is going to grow.\n🔍 TOP KEYWORDS\n- nuora: 34.6K traffic, $0.70 CPC\n- mynuora: 4.2K, $2.45\n- mynoura: 1.5K, $0.30\n- nuora gummies: 1.1K, $1.06\n- nuora reviews: 570, $1.18\nEvery single top keyword is branded. 34.6K monthly searches for \"nuora\" at $0.70 CPC is very efficient. The misspelling \"mynoura\" at 1.5K shows that people remember the brand but not the exact spelling, which is a known risk with unique brand names. \"Nuora reviews\" at 570 tells us customers are doing their homework before buying, which makes the advertorial strategy through Dr. Grace Holland even more important.\nWhat is missing is non-branded keyword presence. There is no \"vaginal probiotics\" or \"pineapple gummies for vaginal health\" showing up. That is a search organic opportunity they are not capturing yet.",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0tYb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb88ab64410757f04be6324f5659e81e1da33ec1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Screenshot%202026-06-16%20at%2014.10.14.png",
+       "name": "Screenshot 2026-06-16 at 14.10.14.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSG1Yb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3f6d79c4042d7277c9f5230012dbf82eff8608a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Screenshot%202026-06-16%20at%2014.11.02.png",
+       "name": "Screenshot 2026-06-16 at 14.11.02.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUHFYb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd3a5a7300caba8875acd557948b804f5efb0e2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Screenshot%202026-06-16%20at%2014.12.03.png",
+       "name": "Screenshot 2026-06-16 at 14.12.03.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkNab1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c53c2e24d1a1645ce0d4707d6338fa28a8dabe0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Screenshot%202026-06-16%20at%2014.14.02.png",
+       "name": "Screenshot 2026-06-16 at 14.14.02.png"
+      }
+     ]
+    },
+    {
+     "id": 4036402,
+     "title": "🏠 Homepage & Brand Positioning",
+     "text": "🔗 Page URL\n\nThe homepage opens clean. The hero section leads with \"Take Care Of Your Vaginal Health\" and positions Nuora as \"a natural probiotic blend designed to fix odor, dryness, and irritation.\" Simple, direct, no ambiguity about what the product does.\nThe trust stack is strong:\n- 79,238+ women social proof counter\n- 4.8/5 stars with reviews\n- Featured in: Forbes, Vogue, Elle, Marie Claire, InStyle\n- Over 500,000 packs sold\n- 93% of women reported balanced pH\n- 89% reported no vaginal infections\n- 91% reported BV symptoms gone within 4 months\n- 95% reported better vaginal odor\nThe mechanism is introduced early on the homepage: The Pineapple Magic, Reset Protocol, and 24-Hour pH Shield. Their framing is smart because it creates a daily use case, which drives subscription value.\nThey also have a second product, Gut Ritual (digestive comfort and wellness capsules at $49), but the vaginal probiotic gummies are clearly the hero product driving the majority of ad spend. \nWe did notice some copy spacing issues on the homepage. Small detail, but when you are pushing this much volume with skeptical cold traffic, every detail matters.\nAffiliate Program:\nThey offer 25% commission for every order placed with an ambassador's code, plus free products, plus early access to a private product line. This is a similar playbook to what we saw with COMFRT's ambassador program, turning customers into distribution channels.",
+     "media": [
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1zntSOPe-mFdAtHdbwgmJRgCck69xTUGn&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/file/d/16qxuO9XGodZEzRq7GOqnrNw7zxoJtwt8/view"
+      }
+     ]
+    },
+    {
+     "id": 4036472,
+     "title": "📱 Meta Ads Strategy",
+     "text": "🔗 Meta Ads Library URL\n\nNuora runs ads across 4 separate Facebook pages, each with a different positioning:\n1. Nuora (main brand page): 182 ads live (30 days), 28 new ads (-67%)\n   - Video: 80.8%, Image: 19.2%\n   - 99+ hooks, 56 ad copy variants, 53 headlines, 15 LPs\n2. Alicia Darling: 464 ads live, 340 new (+82%)\n   - Video: 50.9%, Image: 49.1%\n   - 99+ hooks, 99+ ad copy, 99+ headlines, 28 LPs\n3. Dr. Destiny Robinson: 63 ads live, 0 new\n   - Video: 100%\n   - 60 hooks, 25 ad copy, 18 headlines, 3 LPs\n4. Grace Lindsay: 19 ads live, 3 new\n   - Image: 100%\n   - 6 LPs\nThe Alicia Darling page at 464 ads is running more than double the brand page. Whether she is a real authority figure or a UGC creator playing a role, the strategy is smart: separate the \"medical/authority\" content from the brand page to avoid policy issues and create the appearance of third party endorsement.\nDr. Destiny Robinson's page specifically targets Black women: \"Here is the reason that Black women get BV at twice the rate of white girls.\" This demographic targeting through a separate page with a Black female doctor is very deliberate and very effective. It speaks directly to a segment that has specific health concerns and likely feels underserved by generic messaging.\nMmaybe they're also separating the pages based on the creative side. Some pages are heavier on the video side. Some pages are heavier on the image side. Maybe it also splits the risk. This could be a sensitive topic in terms of Meta advertising policy.\n🎯 CREATIVE ANGLES & WINNING HOOKS\nThe creative strategy breaks down into six distinct angle families:\n1. The \"I Need To Publicly Apologize\" Reverse Hook (longest running, 237 days)\nTheir control ad opens with: \"I need to publicly apologize to anyone who's ever bought Nuora vaginal probiotics before, because I lied.\" Then it reveals the \"lie\" was just that they said 40% off was the best deal, but now it is 65% off. Very catchy hook. \n2. The Biofilm Education Angle\nMultiple ads lead with the mechanism: bacterial biofilms are the hidden cause of recurring vaginal issues. The ads explain that probiotics, boric acid, and antibiotics fail because they cannot break through the biofilm shield. Bromelain from pineapple stems is the only enzyme that dissolves it. \n3. The Timeline/Purge Format\n\"The first two days, discharge will get worse, as your vagina purges the bacterial biofilm waste.\" These ads set expectations by walking the customer through a day-by-day timeline: Day 1-2 purging, Day 5 smell gone, Day 10 full reset. This is powerful because it addresses the biggest objection, \"what if it doesn't work?\", by reframing the initial discomfort as proof that it IS working.\n4. The Ingredient Personification (cartoonish/animated)\nEach ingredient \"introduces itself\" in a fun, animated format. It's a very fun way to learn and also kind of brings down the defense mechanism. \n5. The Authority Figure Long-Form (3-4 minute VSLs)\nDr. Destiny Robinson and Alicia Darling deliver long-form educational content. \"t's almost feels like a mini VSL and it comes up very genuine like they're not trying to sell anything. The bridge to Nuora comes only after the full mechanism explanation.\n6. The Menopause/Gut Angle (via Alicia Darling page)\nTargeting pre-menopause and menopause women with the gut supplement. \"If your belly looks like this, or hips look like this, I want you to see these pictures of me because nothing was working until I learned this.\" This is a separate product (Gut Ritual capsules) pushed through a separate page to a separate audience.\nTop headlines by performance:\n- BUY 1 GET 1 FREE: 32 ads, 237 days (longest running)\n- Rated Excellent 4.8/5: 20 ads, 202 days\n- Our biggest sale of the year!: 14 ads, 196 days\n- The solution for dryness: 11 ads, 52 days\n- Break the cycle: 10 ads, 105 days\n- PRICE GOES BACK UP IN 2 HOURS: 8 ads, 237 days\n- The menobelly fix: 7 ads, 89 days\nWhat stands out is the ads longevity. Multiple ads have been running 200+ days. \"BUY 1 GET 1 FREE\" and \"PRICE GOES BACK UP IN 2 HOURS\" have both been running 237 days. When an ad runs that long, it means it is printing money. You do not leave an ad running for 8 months if it is not profitable.\n🤝 WHO THEY'RE TARGETING\nBased on Atria personas and what we observed across all four pages:\n- 💊 The Wellness Seeker (primary): Women 25-55 who have tried multiple solutions and are frustrated. \n- 🩺 The Health Optimizer: Women who want science-backed, ingredient-transparent solutions\n- 👵 The Mature Explorer: Pre-menopause and menopause women dealing with hormonal changes (targeted with the gut product through Alicia Darling page)\n- 🎯 The Results Seeker: Women who need proof it works before buying (\"nuora reviews\" keyword at 570 searches)\n- ✊ The Underserved Segment: Black women specifically (targeted through Dr. Destiny Robinson's page with stats about BV rates)\n- 💪 The Biohacker: Women interested in biofilm science, mechanism-driven solutions\n🔬 THE PAIN POINTS & MECHANISM\nThe core mechanism is bacterial biofilm dissolution through bromelain (pineapple enzymes). Here is how they explain it across their ads:\nThe Problem:\n- Bad bacteria form a protective shield (biofilm) inside the vaginal microbiome\n- Regular probiotics, boric acid, and antibiotics cannot break through this shield\n- They only clean the surface while the biofilm sits intact underneath\n- That is why the smell, discharge, and discomfort keep coming back\nThe Solution (3 ingredients working together):\n1. Bromelain (from Australian queen pineapple stems, freeze-dried for 2x potency): Dissolves the biofilm\n2. Bacillus coagulans 1969: A spore-forming probiotic that survives stomach acid and reaches the vaginal tissue alive, then recolonizes healthy bacteria\n3. Pectin: Feeds the good bacteria so they actually stick around long-term\nWhat makes this mechanism work from a copywriting perspective is the comparison: \"Like how teeth get plaque. No matter how much you rinse, the plaque doesn't come off until something actually dissolves it. Well, biofilm works the same way.\"",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTEN2b1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--33a39173a369cc82f3acf9c0badc684a9db27647/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/image.png",
+       "name": "image.png"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1eelP4UZ77MfGm3vRGivfu9UlR0GCI4j_&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1CwOsISFzPvag8OOMnKxySuIKL-TgZv23&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=12hyxEZIU7iLe9imY8GJWzHyE0O5S0IuD&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1Ngn_pkAb3rNL7mVKgmqS_LhtudDWURyV&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1-B6fxiY7ESMIluw-OhzMKw1oR9oFZmKW&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1nWlbSJufIy6O0b3gMbDMA4Ru3U9nvY9Y&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/file/d/1ICwBmb09H_MIYIyADLgBgKwGb7B_gEKE/view?usp=sharing"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1a6KZln7L7i_gnY4PnZwOgkmzOea3tC6L&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1yVgDrdpEDB32WwO_GAJ_egfrKg3ahJ_p&usp=drive_copy"
+      }
+     ]
+    },
+    {
+     "id": 4042311,
+     "title": "📺 Google/YouTube Ads",
+     "text": "🔗 Google Ads Transparency URL\nTotal across all Google platforms: ~400 ads. \nThey push both the feminine gummies and the gut supplement across Google Search, Shopping, and YouTube. The headlines are a mix of branded search captures (\"Nuora Official Site\"), problem-aware (\"Helps Fight BV & Yeast\"), and category plays (\"Top 5 Vaginal Gummies 2026\").",
+     "media": [
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1x_pNdVDEL4aaFh1AhBGMvslEurcPE8ZL&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1pMCavc3lCEpkxYdXYZifwL2Qb6wBg12f&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1GaXzfi_2V35Y_D7t_83vS5Z3jVFK1sZJ&usp=drive_copy"
+      }
+     ]
+    },
+    {
+     "id": 4042316,
+     "title": "🎵 TikTok Presence",
+     "text": "Nuora has no significant TikTok presence. \nSearching \"nuora gummies\" on TikTok shows very few results. We think they should be there because if you're at this scale you should definitely try to dominate TikTok as well. Otherwise you risk having copycats.",
+     "media": []
+    },
+    {
+     "id": 4042321,
+     "title": "🛒 Amazon Presence",
+     "text": "Nuora is not on Amazon, and copycats have filled the gap. We are seeing very similar type gummies that they're selling. Same setup, packaging, and it's not them because they're not on Amazon.\"\nIt's unfortunate but it is what it is. This is the Amazon game.",
+     "media": [
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1v3o84Obvl_38kT3enshUx1qcRzyzcvXS&usp=drive_copy"
+      }
+     ]
+    }
    ]
   },
   {
-   "section": "Funnel Breakdown",
-   "title": "Traffic Overview",
-   "lesson_id": "4036289",
-   "text": "Lesson 2 of 18 📊 Traffic Overview (Similarweb) - Monthly Visits: 233.2K - Bounce Rate: 44.01% - Pages per Visit: 3.36 - Avg. Visit Duration: 00:01:39 233K monthly visits is solid for a supplement brand in this niche. For context, most of the brands we cover in the vaginal health and feminine wellness space are sitting between 50K and 300K. What stands out here is the 44% bounce rate, which is actually quite low. That tells me people who land on this site are engaged enough to click deeper, which makes sense when you look at the simplicity of their page structure, there is not much to get lost in. 🌍 TOP COUNTRIES - 🇺🇸 United States: 60.88% - 🇩🇪 Germany: 5.39% - 🇬🇧 United Kingdom: 4.54% - 🇱🇻 Latvia: 3.5% - 🇦🇺 Australia: 2.57% 60.88% US is interesting because that is lower than what we typically see for US-focused DTC supplement brands. COMFRT was at 84%. UNDRDOG at 95%+. Nuora at 60.88% means they are pulling significant traffic from international markets. Germany at 5.39% and Latvia at 3.5% jumped out to me. Latvia is a small country, so 3.5% of traffic from there suggests either a concentrated pocket of customers, an affiliate driving traffic, or a founder connection. That is worth investigating because it could signal an untapped European expansion opportunity. 📈 TRAFFIC SOURCES - Direct: 28.47% - Referrals: 23.08% - Social Paid: 16.48% - Search Organic: 12.33% - Display Ads: 7.32% - Social Organic: 7.22% - Search Paid: 3.59% - Email: 1.31% - Gen AI: 0.2% - Affiliate: 0% This traffic mix tells a story. Direct at 28.47% means people are typing mynuora.com into their browser. That is strong brand recall for a brand at this scale. But the number that really caught our eye is referrals at 23.08%. That is the second largest traffic source. For comparison, most DTC brands we cover have referrals under 5%. This suggests Nuora is getting significant traffic from third party review sites, health blogs, or their advertorial funnels, which we will get into later. Social paid at 16.48% is the third largest channel. That is in line with what you would expect for a brand running Meta ads as their primary acquisition channel. But here is the thing: search paid is only 3.59% and email is only 1.31%. That email number is very low. For a brand doing 233K monthly visits, having email at 1.31% means they are leaving significant retention revenue on the table. COMFRT was at 15.52% email. Neurotoned at 42%. Nuora at 1.31% suggests they have not built out their Klaviyo flows yet, which is a massive opportunity. Gen AI at 0.2% is also interesting. It is a small number but it means people are finding Nuora through AI search. That is going to grow. 🔍 TOP KEYWORDS - nuora: 34.6K traffic, $0.70 CPC - mynuora: 4.2K, $2.45 - mynoura: 1.5K, $0.30 - nuora gummies: 1.1K, $1.06 - nuora reviews: 570, $1.18 Every single top keyword is branded. 34.6K monthly searches for \"nuora\" at $0.70 CPC is very efficient. The misspelling \"mynoura\" at 1.5K shows that people remember the brand but not the exact spelling, which is a known risk with unique brand names. \"Nuora reviews\" at 570 tells us customers are doing their homework before buying, which makes the advertorial strategy through Dr. Grace Holland even more important. What is missing is non-branded keyword presence. There is no \"vaginal probiotics\" or \"pineapple gummies for vaginal health\" showing up. That is a search organic opportunity they are not capturing yet.",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ0tYb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb88ab64410757f04be6324f5659e81e1da33ec1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Screenshot%202026-06-16%20at%2014.10.14.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSG1Yb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d3f6d79c4042d7277c9f5230012dbf82eff8608a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Screenshot%202026-06-16%20at%2014.11.02.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCUHFYb1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5fd3a5a7300caba8875acd557948b804f5efb0e2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Screenshot%202026-06-16%20at%2014.12.03.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQkNab1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c53c2e24d1a1645ce0d4707d6338fa28a8dabe0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Screenshot%202026-06-16%20at%2014.14.02.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Funnel Breakdown",
-   "title": "Homepage & Brand Positioning",
-   "lesson_id": "4036402",
-   "text": "Lesson 3 of 18 🏠 Homepage & Brand Positioning 🔗 Page URL The homepage opens clean. The hero section leads with \"Take Care Of Your Vaginal Health\" and positions Nuora as \"a natural probiotic blend designed to fix odor, dryness, and irritation.\" Simple, direct, no ambiguity about what the product does. The trust stack is strong: - 79,238+ women social proof counter - 4.8/5 stars with reviews - Featured in: Forbes, Vogue, Elle, Marie Claire, InStyle - Over 500,000 packs sold - 93% of women reported balanced pH - 89% reported no vaginal infections - 91% reported BV symptoms gone within 4 months - 95% reported better vaginal odor The mechanism is introduced early on the homepage: The Pineapple Magic, Reset Protocol, and 24-Hour pH Shield. Their framing is smart because it creates a daily use case, which drives subscription value. They also have a second product, Gut Ritual (digestive comfort and wellness capsules at $49), but the vaginal probiotic gummies are clearly the hero product driving the majority of ad spend. We did notice some copy spacing issues on the homepage. Small detail, but when you are pushing this much volume with skeptical cold traffic, every detail matters. Affiliate Program: They offer 25% commission for every order placed with an ambassador's code, plus free products, plus early access to a private product line. This is a similar playbook to what we saw with COMFRT's ambassador program, turning customers into distribution channels.",
-   "images": [],
-   "iframes": [
-    "https://drive.google.com/file/d/1zntSOPe-mFdAtHdbwgmJRgCck69xTUGn/preview",
-    "https://drive.google.com/file/d/16qxuO9XGodZEzRq7GOqnrNw7zxoJtwt8/preview"
+   "name": "Sales Flow",
+   "lessons": [
+    {
+     "id": 4036686,
+     "title": "Landing Page",
+     "text": "🔗 Page URL\nWinner LP: mynuora.com/products/gummies (67.3% of all ad traffic, 442 ads, 248 days longest running)\nTop LPs by traffic share:\n- /products/gummies: 67.3% (442 ads)\n- /products/feminine-balance-gummies-1: 6.5% (43 ads, 207 days)\n- /pages/gut-capsule: 6.4% (42 ads, 133 days)\n- /pages/gut-capsule-2: 4.1% (27 ads)\n- /pages/feminine-gummies-3: 2.9% (19 ads)\n- Homepage: 2.0% (13 ads, 185 days)\n- Various advertorial pages: ~5%\n67.3% of all traffic going to a single PDP is very concentrated. They are not spreading traffic across 99 landing pages like Gruns. They have one winner and they are feeding it.\nAdvertorial Pages (via Grace Lindsay):\nThis was the most interesting discovery. Grace Lindsay's page runs ads that send traffic to top-health-insider.com, a site built to look like an independent health review site. It features \"Dr. Grace Holland,\" described as \"a board-certified OB-GYN with more than 15 years of clinical practice focused exclusively on women's reproductive and hormonal health.\"\nThe headline on one advertorial: \"This OB/GYN Found Why 73% of Women with Recurring BV and Vaginal Odor Never Find Relief.\" Very specific stat-driven headline speaking to a highly educated, highly skeptical audience.\nThey also run listicle-style pages: \"5 Reasons Women Are Loving These Natural High-Potency Probiotic Gummies\" and a variation \"Cured 1.5 years of recurrent BV & yeast infections!\" that opens with personal testimony.\nPDP (Product Detail Page):\nThe PDP is standard Shopify. Clean, not over-engineered. One pack at $34.99, two packs at $77.99, three packs at $83.99. \n⚠️ Some issues:\n- PDP offer layout could be clearer with per-pack pricing\n- Subscription checkbox is pre-checked and not clearly labeled as a subscription. \n\nFull PDP Screenshot \nPop-Up Flow (Gamified)\nThey use a gamified scratch card pop-up that we have been seeing become very common with DTC brands. The flow: scratch card → email entry → phone number entry (for SMS) → discount revealed. This is a two-step opt-in that captures both email and phone, feeding both Klaviyo email and SMS flows.\nStep 1\nStep 2\nStep 3\nStep 4\nStep 5",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRVU1cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c69fdf27e6730f3452f6c88af2b91d0a07274659/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/1.%20PDP.png",
+       "name": "1. PDP.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQVk2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--804d273a2d47c3c9a83b4b89c5ab25632ee16c11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/NUORA%20-%20POP%20UP%20PART%201.png",
+       "name": "NUORA - POP UP PART 1.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ002cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6b6d648c545fe6c969c947c89717eeac3aeeb31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/NUORA%20-%20POP%20UP%20PART%202.png",
+       "name": "NUORA - POP UP PART 2.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFE2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a969677323677481db67be9f896ac134e2c6a9a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/NUORA%20-%20POP%20UP%20PART%203.png",
+       "name": "NUORA - POP UP PART 3.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRjA2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d32373624a64a2383961700989538874f358bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/NUORA%20-%20POP%20UP%20PART%204.png",
+       "name": "NUORA - POP UP PART 4.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSDA2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8c38c1c278821373a7c0f466b6d227ab8ac48760/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/NUORA%20-%20POP%20UP%20PART%205.png",
+       "name": "NUORA - POP UP PART 5.png"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1obvUCOmubzKjed4Qc4r67N1E-W_06ypA&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1du_KYlpOZXAqnDPUP3eHGAqahQJCdUg1&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=198KkaYpc2XkcPLUx5rtHsR9cAZr71CJp&usp=drive_copy"
+      },
+      {
+       "type": "embed",
+       "url": "https://drive.google.com/open?id=1Q5cdCTI3AIPYEabqoWzoAR65H_VWTIXC&usp=drive_copy"
+      }
+     ]
+    },
+    {
+     "id": 4036688,
+     "title": "On-Page Cart",
+     "text": "🔗 Page URL\nFront end offer:\n- 1 Pack (30 servings): $34.99 (US price)\n- 2 Packs: $77.99\n- 3 Packs: $83.99\n- Subscription: Pre-checked, saves additional %\n- Shipping: Free\n- 60-Day Money Back Guarantee\n- Cart: No upsell, no cross-sell, clean cart",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTXM3cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4af62f2f2e0c0c150685df38fa5949dd60322264/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/2.%20CART.png",
+       "name": "2. CART.png"
+      }
+     ]
+    },
+    {
+     "id": 4036689,
+     "title": "Checkout Page",
+     "text": "🔗 Page URL",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRU04cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7b8d60896ff94459c53e88bdf9a9e461a195f8a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/3.%20CHECKOUT.png",
+       "name": "3. CHECKOUT.png"
+      }
+     ]
+    },
+    {
+     "id": 4042284,
+     "title": "Upsell #1",
+     "text": "OTO 1: \"The Founder Birthday BOGO\"\nThe copy reads: \"Oh Ian... You know what?!!! I'm Evelyn, the founder. And you are my 602nd customer today! So now you might be asking me: So what now? Well... 602 = 06/02, which is the 6th of February (the 2nd month of the year). And that just happens to be my birthday! So, I decided that for every 602nd customer of Nuora, we are going to celebrate it BIG.\"\nThe offer: Buy 1 + 1 Free at $38.28 (67% off)\n- Social proof: Facebook comments from \"Isabella Mendes\" (gynecologist endorsement) and \"Megan Blazovic\" (customer comparison to competitors)\n- Countdown timer with urgency",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXM5cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--71588e8150ee032fe3b95f492f9495bf7d13dfd3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/4.%20OTO%201%20Buy%20One%20Plus%20One%20Free.png",
+       "name": "4. OTO 1 Buy One Plus One Free.png"
+      }
+     ]
+    },
+    {
+     "id": 4042286,
+     "title": "Downsell #1",
+     "text": "OTO 2 (Downsell): \"75% Instant Discount\"\nIf you wait or attempt to decline OTO 1, the page shifts to: \"Oh my God, Ian! Ok I understand. It might still feel too expensive. But it's unfair to leave you without insane benefits...\"\nThe offer drops to: $14.50 (75% off from $57.99)\n- Same social proof comments\n- Even more aggressive urgency with countdown",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRDQrcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0288713f820cc03e9c1282de1f3c60213ec5b608/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/5.%20OTO%202%20Downsell%20Page.png",
+       "name": "5. OTO 2 Downsell Page.png"
+      }
+     ]
+    },
+    {
+     "id": 4042289,
+     "title": "Thank You Page",
+     "text": "Final order total: $49.49 (Biofilm Probiotic $34.99 + Vaginal Probiotic $14.50)\n- Total savings displayed: $57.79\n- Subscription auto-enrolled for both items\n\nOn the thank you page, \"Evelyn, the founder\" runs a survey: \"Hey, my queen! I'm Evelyn, the founder of Nuora. Every month, I send $200 to ladies who answer these QUICK questions. First question: How excited are you about trying Nuora?\"\nThe incentive ($200/month to random respondents) is a smart move to boost completion rates. They also offer a 14-day Daily5 sample (a different supplement) through a quiz, which serves as both a cross-sell and a data collection mechanism.",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT0UrcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--40302e11b64d23298252ef1376dbd4f472e00890/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/6.%20Thank%20You%20Page%20(Blurred).png",
+       "name": "6. Thank You Page (Blurred).png"
+      }
+     ]
+    }
    ]
   },
   {
-   "section": "Funnel Breakdown",
-   "title": "Meta Ads Strategy",
-   "lesson_id": "4036472",
-   "text": "Lesson 4 of 18 📱 Meta Ads Strategy 🔗 Meta Ads Library URL Nuora runs ads across 4 separate Facebook pages, each with a different positioning: 1. Nuora (main brand page): 182 ads live (30 days), 28 new ads (-67%) - Video: 80.8%, Image: 19.2% - 99+ hooks, 56 ad copy variants, 53 headlines, 15 LPs 2. Alicia Darling: 464 ads live, 340 new (+82%) - Video: 50.9%, Image: 49.1% - 99+ hooks, 99+ ad copy, 99+ headlines, 28 LPs 3. Dr. Destiny Robinson: 63 ads live, 0 new - Video: 100% - 60 hooks, 25 ad copy, 18 headlines, 3 LPs 4. Grace Lindsay: 19 ads live, 3 new - Image: 100% - 6 LPs The Alicia Darling page at 464 ads is running more than double the brand page. Whether she is a real authority figure or a UGC creator playing a role, the strategy is smart: separate the \"medical/authority\" content from the brand page to avoid policy issues and create the appearance of third party endorsement. Dr. Destiny Robinson's page specifically targets Black women: \"Here is the reason that Black women get BV at twice the rate of white girls.\" This demographic targeting through a separate page with a Black female doctor is very deliberate and very effective. It speaks directly to a segment that has specific health concerns and likely feels underserved by generic messaging. Mmaybe they're also separating the pages based on the creative side. Some pages are heavier on the video side. Some pages are heavier on the image side. Maybe it also splits the risk. This could be a sensitive topic in terms of Meta advertising policy. 🎯 CREATIVE ANGLES & WINNING HOOKS The creative strategy breaks down into six distinct angle families: 1. The \"I Need To Publicly Apologize\" Reverse Hook (longest running, 237 days) Their control ad opens with: \"I need to publicly apologize to anyone who's ever bought Nuora vaginal probiotics before, because I lied.\" Then it reveals the \"lie\" was just that they said 40% off was the best deal, but now it is 65% off. Very catchy hook. 2. The Biofilm Education Angle Multiple ads lead with the mechanism: bacterial biofilms are the hidden cause of recurring vaginal issues. The ads explain that probiotics, boric acid, and antibiotics fail because they cannot break through the biofilm shield. Bromelain from pineapple stems is the only enzyme that dissolves it. 3. The Timeline/Purge Format \"The first two days, discharge will get worse, as your vagina purges the bacterial biofilm waste.\" These ads set expectations by walking the customer through a day-by-day timeline: Day 1-2 purging, Day 5 smell gone, Day 10 full reset. This is powerful because it addresses the biggest objection, \"what if it doesn't work?\", by reframing the initial discomfort as proof that it IS working. 4. The Ingredient Personification (cartoonish/animated) Each ingredient \"introduces itself\" in a fun, animated format. It's a very fun way to learn and also kind of brings down the defense mechanism. 5. The Authority Figure Long-Form (3-4 minute VSLs) Dr. Destiny Robinson and Alicia Darling deliver long-form educational content. \"t's almost feels like a mini VSL and it comes up very genuine like they're not trying to sell anything. The bridge to Nuora comes only after the full mechanism explanation. 6. The Menopause/Gut Angle (via Alicia Darling page) Targeting pre-menopause and menopause women with the gut supplement. \"If your belly looks like this, or hips look like this, I want you to see these pictures of me because nothing was working until I learned this.\" This is a separate product (Gut Ritual capsules) pushed through a separate page to a separate audience. Top headlines by performance: - BUY 1 GET 1 FREE: 32 ads, 237 days (longest running) - Rated Excellent 4.8/5: 20 ads, 202 days - Our biggest sale of the year!: 14 ads, 196 days - The solution for dryness: 11 ads, 52 days - Break the cycle: 10 ads, 105 days - PRICE GOES BACK UP IN 2 HOURS: 8 ads, 237 days - The menobelly fix: 7 ads, 89 days What stands out is the ads longevity. Multiple ads have been running 200+ days. \"BUY 1 GET 1 FREE\" and \"PRICE GOES BACK UP IN 2 HOURS\" have both been running 237 days. When an ad runs that long, it means it is printing money. You do not leave an ad running for 8 months if it is not profitable. 🤝 WHO THEY'RE TARGETING Based on Atria personas and what we observed across all four pages: - 💊 The Wellness Seeker (primary): Women 25-55 who have tried multiple solutions and are frustrated. - 🩺 The Health Optimizer: Women who want science-backed, ingredient-transparent solutions - 👵 The Mature Explorer: Pre-menopause and menopause women dealing with hormonal changes (targeted with the gut product through Alicia Darling page) - 🎯 The Results Seeker: Women who need proof it works before buying (\"nuora reviews\" keyword at 570 searches) - ✊ The Underserved Segment: Black women specifically (targeted through Dr. Destiny Robinson's page with stats about BV rates) - 💪 The Biohacker: Women interested in biofilm science, mechanism-driven solutions 🔬 THE PAIN POINTS & MECHANISM The core mechanism is bacterial biofilm dissolution through bromelain (pineapple enzymes). Here is how they explain it across their ads: The Problem: - Bad bacteria form a protective shield (biofilm) inside the vaginal microbiome - Regular probiotics, boric acid, and antibiotics cannot break through this shield - They only clean the surface while the biofilm sits intact underneath - That is why the smell, discharge, and discomfort keep coming back The Solution (3 ingredients working together): 1. Bromelain (from Australian queen pineapple stems, freeze-dried for 2x potency): Dissolves the biofilm 2. Bacillus coagulans 1969: A spore-forming probiotic that survives stomach acid and reaches the vaginal tissue alive, then recolonizes healthy bacteria 3. Pectin: Feeds the good bacteria so they actually stick around long-term What makes this mechanism work from a copywriting perspective is the comparison: \"Like how teeth get plaque. No matter how much you rinse, the plaque doesn't come off until something actually dissolves it. Well, biofilm works the same way.\"",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTEN2b1FvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--33a39173a369cc82f3acf9c0badc684a9db27647/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/image.png"
-   ],
-   "iframes": [
-    "https://drive.google.com/file/d/1eelP4UZ77MfGm3vRGivfu9UlR0GCI4j_/preview",
-    "https://drive.google.com/file/d/1CwOsISFzPvag8OOMnKxySuIKL-TgZv23/preview",
-    "https://drive.google.com/file/d/12hyxEZIU7iLe9imY8GJWzHyE0O5S0IuD/preview",
-    "https://drive.google.com/file/d/1Ngn_pkAb3rNL7mVKgmqS_LhtudDWURyV/preview",
-    "https://drive.google.com/file/d/1-B6fxiY7ESMIluw-OhzMKw1oR9oFZmKW/preview",
-    "https://drive.google.com/file/d/1nWlbSJufIy6O0b3gMbDMA4Ru3U9nvY9Y/preview"
+   "name": "Additional Files & Materials",
+   "lessons": [
+    {
+     "id": 4042299,
+     "title": "Funnel Takeaways",
+     "text": "1. One mechanism, relentlessly repeated. Every single ad, across all four pages, leads with the same mechanism: biofilm dissolution through bromelain. They do not try to invent new angles. They found the one thing that resonates, the science behind why nothing else works, and they hammer it from every direction: authority figures, UGC creators, animations, long-form VSLs, and advertorials.\n2. The multi-page strategy is about audience segmentation, not just risk. Nuora main page speaks to the general audience. Alicia Darling targets women who respond to authority figures. Dr. Destiny Robinson speaks specifically to Black women. Grace Lindsay drives traffic to native advertorials. Each page is a different door into the same funnel.\n3. The advertorial through top-health-insider.com is their most sophisticated asset. A board-certified OB-GYN reviewing the product on what appears to be an independent health site. The funnels that look native definitely win a lot at scale because they can capture audiences that are both skeptical and non-skeptical.\n4. The founder birthday OTO is genuinely creative. \"602 = 06/02 = February 6th = my birthday\" is the kind of OTO copy that makes you smile instead of feeling sold to. It transforms a standard BOGO upsell into a personal moment with the founder. Every brand should study this as an alternative to the generic \"WAIT! Before you go...\" post purchase page.\n5. They are leaving money on the table with email at 1.31%. This is the biggest gap in the funnel. At 233K monthly visits with a gamified pop-up capturing emails and phone numbers, they should be driving significantly more revenue through Klaviyo flows. If they built out a proper welcome series, abandon cart, post-purchase, and win-back sequence, email could easily be 10-15% of traffic within 90 days.\n6. No TikTok and no Amazon is a risk. When you have a product this easy to copy (gummies in a pouch), not being on TikTok and Amazon means copycats will fill that space. Someone searching \"nuora\" on TikTok or Amazon should find Nuora, not a knock-off brand with similar packaging and lower prices.\n7. The pre-checked subscription is a double-edged sword. It likely boosts subscription enrollment rates, but \"it's very difficult to understand that I am actually subscribing because this almost looks like just a check mark.\" This can drive chargebacks and trust issues. The short-term revenue gain may not be worth the long-term customer satisfaction cost.\n8. 67.3% of ad traffic to one PDP is both a strength and a vulnerability. It means they have a clear winner and they are scaling it hard. But it also means a single page change, policy violation, or conversion dip affects two-thirds of their paid acquisition. Testing a second winner LP should be a priority.\n9. Their ad longevity is exceptional. Multiple ads running 200+ days. \"BUY 1 GET 1 FREE\" at 237 days. \"PRICE GOES BACK UP IN 2 HOURS\" at 237 days. This tells you the creative is not burning out, which means either the audience is large enough to sustain frequency, or the ads are genuinely engaging enough that people do not fatigue on them.\n10. The 65% off front-end pricing is strategic for a skeptical audience. The deep discount removes the financial risk for a customer who has already been burned.",
+     "media": []
+    },
+    {
+     "id": 4042301,
+     "title": "Cancellation Flow",
+     "text": "Step 1\nStep 2\nStep 3\nStep 4\nStep 5\nStep 6\nStep 7\nStep 8\nStep 9\nStep 10",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmxJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--33c58a473529d3785841576cb503151672dfaae7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%201.png",
+       "name": "Step 1.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFpJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9529752a04fa9e01fb1a2121c1861b7d58d85631/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%202.png",
+       "name": "Step 2.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRTFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ef338d302828773437cbb2841cb1497501b66fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%203.png",
+       "name": "Step 3.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRzFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cce2d467ba0381b4c5f8b3a0ab45d1a97d785e70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%204.png",
+       "name": "Step 4.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVJJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4e5fa4c380d287af3645876f030499682c5c24e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%205.png",
+       "name": "Step 5.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnhJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c2d347d881f77104aa135e59539ce75bbdbcbab/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%206.png",
+       "name": "Step 6.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTDFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--84809c430487a728fc747f23420475bee4c48b5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%207.png",
+       "name": "Step 7.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlpJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87996cdd81e30cdc308f272bbaa55a10b3396da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%208.png",
+       "name": "Step 8.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT1JJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2e192fded8b2f31de3c7e9d7efda2c4844b7d5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%209.png",
+       "name": "Step 9.png"
+      },
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQWRKcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--10881d8ea69f19395e97690645a8d5a9f81a934e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Step%2010.png",
+       "name": "Step 10.png"
+      }
+     ]
+    },
+    {
+     "id": 4042302,
+     "title": "Funnel Map in Miro",
+     "text": "👁️ Funnel Preview \n🔍 Funnel board in Miro:\nZoom in and out to explore all the details of this funnel",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT3hXcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b929ce4e6e766826b982027102ec76feb6bc7c79/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/Screenshot%202026-06-17%20at%2014.06.06.png",
+       "name": "Screenshot 2026-06-17 at 14.06.06.png"
+      },
+      {
+       "type": "embed",
+       "url": "https://miro.com/app/board/uXjVHEsRjkI=/?share_link_id=328145553804"
+      }
+     ]
+    },
+    {
+     "id": 4042304,
+     "title": "Nuora Post-Purchase Email Sequence",
+     "text": "",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/61zvkn0jgs6cpztv2vjqq5riwjph",
+       "name": "1. Order Confirmation - 2026-06-13.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/944a834ql4lak7hp8xl71tj9ynw5",
+       "name": "6. Educational - 2026-06-14.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/rezjbbk2czb4z3zsbyxion1vli1p",
+       "name": "7. Order Shipped - 2026-06-15.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/vdd3a83zioj96jozhf0q3xi2i2d0",
+       "name": "3. Order Info - 2026-06-13.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/y83uc6x1dbf9z1kdeneqpv603mua",
+       "name": "2. Order Updated - 2026-06-13.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/krbelugovqp1ku9k1fkch181lgos",
+       "name": "9. Educational - 2026-06-16.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/nko1ggjgefmuq6amf4dpnxekr98g",
+       "name": "8. Order On The Way - 2026-06-16.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/zv8hd3i5lrhqvyq49pvycbzom1mi",
+       "name": "4. Order Confirmed - 2026-06-13.pdf"
+      },
+      {
+       "type": "img",
+       "url": "https://assets-v2.circle.so/5ss2t7ql7axxkpuyjhsep7wvh9bw",
+       "name": "8. Order On The Way - 2026-06-16.pdf"
+      }
+     ]
+    }
    ]
   },
   {
-   "section": "Funnel Breakdown",
-   "title": "Google/YouTube Ads",
-   "lesson_id": "4042311",
-   "text": "Lesson 5 of 18 📺 Google/YouTube Ads 🔗 Google Ads Transparency URL Total across all Google platforms: ~400 ads. They push both the feminine gummies and the gut supplement across Google Search, Shopping, and YouTube. The headlines are a mix of branded search captures (\"Nuora Official Site\"), problem-aware (\"Helps Fight BV & Yeast\"), and category plays (\"Top 5 Vaginal Gummies 2026\").",
-   "images": [],
-   "iframes": [
-    "https://drive.google.com/file/d/1x_pNdVDEL4aaFh1AhBGMvslEurcPE8ZL/preview",
-    "https://drive.google.com/file/d/1pMCavc3lCEpkxYdXYZifwL2Qb6wBg12f/preview",
-    "https://drive.google.com/file/d/1GaXzfi_2V35Y_D7t_83vS5Z3jVFK1sZJ/preview"
+   "name": "Let's Discuss!",
+   "lessons": [
+    {
+     "id": 4042306,
+     "title": "Funnel Discussion",
+     "text": "👋 Got any questions or thoughts on this funnel? Share them in the comments 👉",
+     "media": [
+      {
+       "type": "img",
+       "url": "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhDcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--04b8bc4cb11893c74347ff81be2bd8a63edd6c95/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2Q25OaGRtVnlld1k2Q25OMGNtbHdWQT09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--c94871ba5479e24de62982019557cdcc73e92248/image.png",
+       "name": "image.png"
+      }
+     ]
+    }
    ]
-  },
-  {
-   "section": "Funnel Breakdown",
-   "title": "TikTok Presence",
-   "lesson_id": "4042316",
-   "text": "Lesson 6 of 18 🎵 TikTok Presence Nuora has no significant TikTok presence. Searching \"nuora gummies\" on TikTok shows very few results. We think they should be there because if you're at this scale you should definitely try to dominate TikTok as well. Otherwise you risk having copycats.",
-   "images": [],
-   "iframes": []
-  },
-  {
-   "section": "Funnel Breakdown",
-   "title": "Amazon Presence",
-   "lesson_id": "4042321",
-   "text": "Lesson 7 of 18 🛒 Amazon Presence Nuora is not on Amazon, and copycats have filled the gap. We are seeing very similar type gummies that they're selling. Same setup, packaging, and it's not them because they're not on Amazon.\" It's unfortunate but it is what it is. This is the Amazon game.",
-   "images": [],
-   "iframes": [
-    "https://drive.google.com/file/d/1v3o84Obvl_38kT3enshUx1qcRzyzcvXS/preview"
-   ]
-  },
-  {
-   "section": "Sales Flow",
-   "title": "Landing Page",
-   "lesson_id": "4036686",
-   "text": "Lesson 8 of 18 Landing Page 🔗 Page URL Winner LP: mynuora.com/products/gummies (67.3% of all ad traffic, 442 ads, 248 days longest running) Top LPs by traffic share: - /products/gummies: 67.3% (442 ads) - /products/feminine-balance-gummies-1: 6.5% (43 ads, 207 days) - /pages/gut-capsule: 6.4% (42 ads, 133 days) - /pages/gut-capsule-2: 4.1% (27 ads) - /pages/feminine-gummies-3: 2.9% (19 ads) - Homepage: 2.0% (13 ads, 185 days) - Various advertorial pages: ~5% 67.3% of all traffic going to a single PDP is very concentrated. They are not spreading traffic across 99 landing pages like Gruns. They have one winner and they are feeding it. Advertorial Pages (via Grace Lindsay): This was the most interesting discovery. Grace Lindsay's page runs ads that send traffic to top-health-insider.com, a site built to look like an independent health review site. It features \"Dr. Grace Holland,\" described as \"a board-certified OB-GYN with more than 15 years of clinical practice focused exclusively on women's reproductive and hormonal health.\" The headline on one advertorial: \"This OB/GYN Found Why 73% of Women with Recurring BV and Vaginal Odor Never Find Relief.\" Very specific stat-driven headline speaking to a highly educated, highly skeptical audience. They also run listicle-style pages: \"5 Reasons Women Are Loving These Natural High-Potency Probiotic Gummies\" and a variation \"Cured 1.5 years of recurrent BV & yeast infections!\" that opens with personal testimony. PDP (Product Detail Page): The PDP is standard Shopify. Clean, not over-engineered. One pack at $34.99, two packs at $77.99, three packs at $83.99. ⚠️ Some issues: - PDP offer layout could be clearer with per-pack pricing - Subscription checkbox is pre-checked and not clearly labeled as a subscription. Full PDP Screenshot Pop-Up Flow (Gamified) They use a gamified scratch card pop-up that we have been seeing become very common with DTC brands. The flow: scratch card → email entry → phone number entry (for SMS) → discount revealed. This is a two-step opt-in that captures both email and phone, feeding both Klaviyo email and SMS flows. Step 1 Step 2 Step 3 Step 4 Step 5",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRVU1cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c69fdf27e6730f3452f6c88af2b91d0a07274659/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/1.%20PDP.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQVk2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--804d273a2d47c3c9a83b4b89c5ab25632ee16c11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/NUORA%20-%20POP%20UP%20PART%201.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQ002cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6b6d648c545fe6c969c947c89717eeac3aeeb31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/NUORA%20-%20POP%20UP%20PART%202.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFE2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a969677323677481db67be9f896ac134e2c6a9a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/NUORA%20-%20POP%20UP%20PART%203.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRjA2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--23d32373624a64a2383961700989538874f358bb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/NUORA%20-%20POP%20UP%20PART%204.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSDA2cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8c38c1c278821373a7c0f466b6d227ab8ac48760/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/NUORA%20-%20POP%20UP%20PART%205.png"
-   ],
-   "iframes": [
-    "https://drive.google.com/file/d/1obvUCOmubzKjed4Qc4r67N1E-W_06ypA/preview",
-    "https://drive.google.com/file/d/1du_KYlpOZXAqnDPUP3eHGAqahQJCdUg1/preview",
-    "https://drive.google.com/file/d/198KkaYpc2XkcPLUx5rtHsR9cAZr71CJp/preview",
-    "https://drive.google.com/file/d/1Q5cdCTI3AIPYEabqoWzoAR65H_VWTIXC/preview"
-   ]
-  },
-  {
-   "section": "Sales Flow",
-   "title": "On-Page Cart",
-   "lesson_id": "4036688",
-   "text": "Lesson 9 of 18 On-Page Cart 🔗 Page URL Front end offer: - 1 Pack (30 servings): $34.99 (US price) - 2 Packs: $77.99 - 3 Packs: $83.99 - Subscription: Pre-checked, saves additional % - Shipping: Free - 60-Day Money Back Guarantee - Cart: No upsell, no cross-sell, clean cart",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTXM3cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4af62f2f2e0c0c150685df38fa5949dd60322264/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/2.%20CART.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Sales Flow",
-   "title": "Checkout Page",
-   "lesson_id": "4036689",
-   "text": "Lesson 10 of 18 Checkout Page 🔗 Page URL",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRU04cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e7b8d60896ff94459c53e88bdf9a9e461a195f8a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/3.%20CHECKOUT.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Sales Flow",
-   "title": "Upsell #1",
-   "lesson_id": "4042284",
-   "text": "Lesson 11 of 18 Upsell #1 OTO 1: \"The Founder Birthday BOGO\" The copy reads: \"Oh Ian... You know what?!!! I'm Evelyn, the founder. And you are my 602nd customer today! So now you might be asking me: So what now? Well... 602 = 06/02, which is the 6th of February (the 2nd month of the year). And that just happens to be my birthday! So, I decided that for every 602nd customer of Nuora, we are going to celebrate it BIG.\" The offer: Buy 1 + 1 Free at $38.28 (67% off) - Social proof: Facebook comments from \"Isabella Mendes\" (gynecologist endorsement) and \"Megan Blazovic\" (customer comparison to competitors) - Countdown timer with urgency",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXM5cFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--71588e8150ee032fe3b95f492f9495bf7d13dfd3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/4.%20OTO%201%20Buy%20One%20Plus%20One%20Free.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Sales Flow",
-   "title": "Downsell #1",
-   "lesson_id": "4042286",
-   "text": "Lesson 12 of 18 Downsell #1 OTO 2 (Downsell): \"75% Instant Discount\" If you wait or attempt to decline OTO 1, the page shifts to: \"Oh my God, Ian! Ok I understand. It might still feel too expensive. But it's unfair to leave you without insane benefits...\" The offer drops to: $14.50 (75% off from $57.99) - Same social proof comments - Even more aggressive urgency with countdown",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRDQrcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0288713f820cc03e9c1282de1f3c60213ec5b608/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/5.%20OTO%202%20Downsell%20Page.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Sales Flow",
-   "title": "Thank You Page",
-   "lesson_id": "4042289",
-   "text": "Lesson 13 of 18 Thank You Page Final order total: $49.49 (Biofilm Probiotic $34.99 + Vaginal Probiotic $14.50) - Total savings displayed: $57.79 - Subscription auto-enrolled for both items On the thank you page, \"Evelyn, the founder\" runs a survey: \"Hey, my queen! I'm Evelyn, the founder of Nuora. Every month, I send $200 to ladies who answer these QUICK questions. First question: How excited are you about trying Nuora?\" The incentive ($200/month to random respondents) is a smart move to boost completion rates. They also offer a 14-day Daily5 sample (a different supplement) through a quiz, which serves as both a cross-sell and a data collection mechanism.",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT0UrcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--40302e11b64d23298252ef1376dbd4f472e00890/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/6.%20Thank%20You%20Page%20(Blurred).png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Takeaways",
-   "title": "Funnel Takeaways",
-   "lesson_id": "4042299",
-   "text": "Lesson 14 of 18 Funnel Takeaways 1. One mechanism, relentlessly repeated. Every single ad, across all four pages, leads with the same mechanism: biofilm dissolution through bromelain. They do not try to invent new angles. They found the one thing that resonates, the science behind why nothing else works, and they hammer it from every direction: authority figures, UGC creators, animations, long-form VSLs, and advertorials. 2. The multi-page strategy is about audience segmentation, not just risk. Nuora main page speaks to the general audience. Alicia Darling targets women who respond to authority figures. Dr. Destiny Robinson speaks specifically to Black women. Grace Lindsay drives traffic to native advertorials. Each page is a different door into the same funnel. 3. The advertorial through top-health-insider.com is their most sophisticated asset. A board-certified OB-GYN reviewing the product on what appears to be an independent health site. The funnels that look native definitely win a lot at scale because they can capture audiences that are both skeptical and non-skeptical. 4. The founder birthday OTO is genuinely creative. \"602 = 06/02 = February 6th = my birthday\" is the kind of OTO copy that makes you smile instead of feeling sold to. It transforms a standard BOGO upsell into a personal moment with the founder. Every brand should study this as an alternative to the generic \"WAIT! Before you go...\" post purchase page. 5. They are leaving money on the table with email at 1.31%. This is the biggest gap in the funnel. At 233K monthly visits with a gamified pop-up capturing emails and phone numbers, they should be driving significantly more revenue through Klaviyo flows. If they built out a proper welcome series, abandon cart, post-purchase, and win-back sequence, email could easily be 10-15% of traffic within 90 days. 6. No TikTok and no Amazon is a risk. When you have a product this easy to copy (gummies in a pouch), not being on TikTok and Amazon means copycats will fill that space. Someone searching \"nuora\" on TikTok or Amazon should find Nuora, not a knock-off brand with similar packaging and lower prices. 7. The pre-checked subscription is a double-edged sword. It likely boosts subscription enrollment rates, but \"it's very difficult to understand that I am actually subscribing because this almost looks like just a check mark.\" This can drive chargebacks and trust issues. The short-term revenue gain may not be worth the long-term customer satisfaction cost. 8. 67.3% of ad traffic to one PDP is both a strength and a vulnerability. It means they have a clear winner and they are scaling it hard. But it also means a single page change, policy violation, or conversion dip affects two-thirds of their paid acquisition. Testing a second winner LP should be a priority. 9. Their ad longevity is exceptional. Multiple ads running 200+ days. \"BUY 1 GET 1 FREE\" at 237 days. \"PRICE GOES BACK UP IN 2 HOURS\" at 237 days. This tells you the creative is not burning out, which means either the audience is large enough to sustain frequency, or the ads are genuinely engaging enough that people do not fatigue on them. 10. The 65% off front-end pricing is strategic for a skeptical audience. The deep discount removes the financial risk for a customer who has already been burned.",
-   "images": [],
-   "iframes": []
-  },
-  {
-   "section": "Takeaways",
-   "title": "Cancellation Flow",
-   "lesson_id": "4042301",
-   "text": "Lesson 15 of 18 Cancellation Flow Step 1 Step 2 Step 3 Step 4 Step 5 Step 6 Step 7 Step 8 Step 9 Step 10",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQmxJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--33c58a473529d3785841576cb503151672dfaae7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%201.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRFpJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9529752a04fa9e01fb1a2121c1861b7d58d85631/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%202.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRTFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8ef338d302828773437cbb2841cb1497501b66fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%203.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRzFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cce2d467ba0381b4c5f8b3a0ab45d1a97d785e70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%204.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSVJJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4e5fa4c380d287af3645876f030499682c5c24e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%205.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCSnhJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c2d347d881f77104aa135e59539ce75bbdbcbab/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%206.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTDFJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--84809c430487a728fc747f23420475bee4c48b5f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%207.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTlpJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87996cdd81e30cdc308f272bbaa55a10b3396da6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%208.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT1JJcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2e192fded8b2f31de3c7e9d7efda2c4844b7d5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%209.png",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCQWRKcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--10881d8ea69f19395e97690645a8d5a9f81a934e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Step%2010.png"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Takeaways",
-   "title": "Funnel Map in Miro",
-   "lesson_id": "4042302",
-   "text": "Lesson 16 of 18 Funnel Map in Miro 👁️ Funnel Preview 🔍 Funnel board in Miro: Zoom in and out to explore all the details of this funnel",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCT3hXcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b929ce4e6e766826b982027102ec76feb6bc7c79/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/Screenshot%202026-06-17%20at%2014.06.06.png"
-   ],
-   "iframes": [
-    "https://miro.com/app/live-embed/uXjVHEsRjkI=/?share_link_id=328145553804&embedId=228027082850&embedSource=oembed&embedMode=view_only_without_ui"
-   ]
-  },
-  {
-   "section": "Takeaways",
-   "title": "Post-Purchase Email Sequence",
-   "lesson_id": "4042304",
-   "text": "Lesson 17 of 18 Nuora Post-Purchase Email Sequence 1. Order Confirmation - 2026-06-... 311.99 KB 2. Order Updated - 2026-06-13.pdf 383.51 KB 3. Order Info - 2026-06-13.pdf 172.52 KB 4. Order Confirmed - 2026-06-13.pdf 624.99 KB 8. Order On The Way - 2026-06-16... 6.72 MB 6. Educational - 2026-06-14.pdf 172.65 KB 7. Order Shipped - 2026-06-15.pdf 280.04 KB 8. Order On The Way - 2026-06-16... 6.72 MB 9. Educational - 2026-06-16.pdf 166.54 KB",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRWhQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8111570e84e2d54e9404f521c0b1ccb8e6e9f9bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/1.%20Order%20Confirmation%20-%202026-06-13.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRmxQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3fb0e29a152b9b3e5ad904e2019c95a5719da68/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/2.%20Order%20Updated%20-%202026-06-13.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRmRQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--08875be728278b2731e3ba0fdaadf9f1b8b53486/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/3.%20Order%20Info%20-%202026-06-13.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCR2RQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e971edd7798d8ea9e8a0cca88cdd6dfffd055eb0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/4.%20Order%20Confirmed%20-%202026-06-13.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCR1JQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a497b05b39335c5f7aa55ada1aa1627f0d90a86d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/8.%20Order%20On%20The%20Way%20-%202026-06-16.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRXBQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--afd53f52ac51f35033fc4c56761de992bf5fd7c1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/6.%20Educational%20-%202026-06-14.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCRlJQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1a9c2644cb771855c43a205b4906413342aaba4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/7.%20Order%20Shipped%20-%202026-06-15.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCR3RQcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--349c46d0bb0da8bad132e223ff485388da54e2fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/8.%20Order%20On%20The%20Way%20-%202026-06-16.pdf",
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCR05QcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--805b19e67cc9ec82c0825f24f1a35d0f0c4bea8b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCam9VY21WemFYcGxYM1J2WDJ4cGJXbDBXd2RwQWlBRGFRSkFCZz09IiwiZXhwIjpudWxsLCJwdXIiOiJ2YXJpYXRpb24ifX0=--07a046a624ee42d116e6b9403cb3c1dc2823e2af/9.%20Educational%20-%202026-06-16.pdf"
-   ],
-   "iframes": []
-  },
-  {
-   "section": "Discussion",
-   "title": "Funnel Discussion",
-   "lesson_id": "4042306",
-   "text": "Lesson 18 of 18 Funnel Discussion 👋 Got any questions or thoughts on this funnel? Share them in the comments 👉",
-   "images": [
-    "https://app.circle.so/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBCTmhDcFFvPSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--04b8bc4cb11893c74347ff81be2bd8a63edd6c95/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdDRG9MWm05eWJXRjBTU0lJY0c1bkJqb0dSVlE2RkhKbGMybDZaVjkwYjE5c2FXMXBkRnNIYVFJNEJEQTZDbk5oZG1WeWV3WTZDbk4wY21sd1ZBPT0iLCJleHAiOm51bGwsInB1ciI6InZhcmlhdGlvbiJ9fQ==--7535ef66ff04b52d1ea165e904a77a64f9cc7389/image.png"
-   ],
-   "iframes": []
   }
  ]
 }
