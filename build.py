@@ -83,9 +83,17 @@ img{max-width:100%}
 .ov-content .embed{margin:14px 0}
 .ov-content iframe{width:100%;height:420px;border:1px solid var(--line);border-radius:10px}
 .ov-content .embed-link{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0;font-size:13.5px}
-.ov-content .file-bar{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#fef3f2;border:1px solid #fecaca;border-radius:8px 8px 0 0;padding:8px 13px;font-size:13px;font-weight:600;color:#b91c1c}
-.ov-content .file-bar a{font-size:12.5px;color:var(--accent)}
-.ov-content .embed:has(.file-bar) iframe{border-radius:0 0 10px 10px;border-top:0;height:560px;background:#fff}
+/* danh sách file đính kèm (PDF/file) — bullet gọn, dễ tải */
+.ov-content .filelist{margin:16px 0;border:1px solid var(--line);border-radius:12px;overflow:hidden;background:var(--card)}
+.ov-content .filelist-h{padding:11px 15px;font-size:13px;font-weight:700;color:var(--ink);background:var(--bg);border-bottom:1px solid var(--line)}
+.ov-content .filelist-h span{font-weight:500;color:var(--ink2);font-size:12px}
+.ov-content .filerow{display:flex;align-items:center;gap:11px;padding:11px 15px;border-bottom:1px solid var(--line);color:var(--ink);transition:.12s}
+.ov-content .filerow:last-child{border-bottom:0}
+.ov-content .filerow:hover{background:var(--bg)}
+.ov-content .fr-ic{font-size:17px;flex-shrink:0}
+.ov-content .fr-nm{flex:1;font-size:13.5px;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
+.ov-content .fr-dl{font-size:12px;font-weight:700;color:var(--accent);background:#eef2ff;border-radius:8px;padding:4px 10px;flex-shrink:0}
+.ov-content .filerow:hover .fr-dl{background:var(--accent);color:#fff}
 /* curriculum sidebar phải */
 .ov-side{width:320px;background:var(--card);border-left:1px solid var(--line);overflow-y:auto;flex-shrink:0}
 .ov-side .sh{padding:16px 18px 10px;font-weight:700;font-size:15px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--card);display:flex;align-items:center;justify-content:space-between}
@@ -233,15 +241,28 @@ function renderSide(){
 }
 function renderLesson(){
   const l=flatLessons[curIdx]; if(!l)return;
-  let media=(l.media||[]).map(m=>{
+  const ml=(l.media||[]);
+  // tách: ảnh/video/embed render inline; PDF+file gom thành DANH SÁCH bullet sort theo tên
+  const inlineMedia=ml.filter(m=>m.type==='img'||m.type==='video'||m.type==='embed'||/youtube|youtu\.be|vimeo|loom|drive\.google/.test(m.url));
+  const fileList=ml.filter(m=>m.type==='pdf'||m.type==='file');
+  // sort file theo số đầu tên (1. 2. 3...) rồi alpha
+  const numOf=s=>{const m2=(s||'').match(/^\s*(\d+)/);return m2?+m2[1]:999;};
+  fileList.sort((a,b)=>numOf(a.name)-numOf(b.name)||(a.name||'').localeCompare(b.name||''));
+  let media=inlineMedia.map(m=>{
     if(m.type==='img')return `<img src="${m.url}" loading="lazy">`;
-    if(m.type==='pdf')return `<div class="embed"><div class="file-bar">📄 ${esc(m.name||'PDF')} <a href="${m.url}" target="_blank">Mở ↗</a></div><iframe src="${m.url}#toolbar=0" loading="lazy"></iframe></div>`;
     if(m.type==='video')return `<video src="${m.url}" controls style="width:100%;border-radius:10px;border:1px solid var(--line);margin:14px 0"></video>`;
-    if(m.type==='file')return `<a class="embed-link" href="${m.url}" target="_blank">📎 ${esc(m.name||m.url.slice(0,50))}</a>`;
     if(/youtube|youtu\.be|vimeo|loom/.test(m.url))return `<div class="embed"><iframe src="${m.url.replace('watch?v=','embed/')}" loading="lazy" allowfullscreen></iframe></div>`;
     if(/drive\.google/.test(m.url)){const id=(m.url.match(/[-\w]{25,}/)||[])[0];return id?`<div class="embed"><iframe src="https://drive.google.com/file/d/${id}/preview" loading="lazy"></iframe></div>`:`<a class="embed-link" href="${m.url}" target="_blank">📎 ${m.url.slice(0,50)}</a>`;}
     return `<a class="embed-link" href="${m.url}" target="_blank">🔗 ${m.url.slice(0,55)}</a>`;
   }).join("");
+  if(fileList.length){
+    const icon=t=>t==='pdf'?'📄':'📎';
+    media+=`<div class="filelist"><div class="filelist-h">📎 ${fileList.length} file đính kèm <span>(sắp theo thứ tự · bấm tải)</span></div>`+
+      fileList.map((m,idx)=>`<a class="filerow" href="${m.url}" target="_blank" download>
+        <span class="fr-ic">${icon(m.type)}</span>
+        <span class="fr-nm">${esc(m.name||('File '+(idx+1)))}</span>
+        <span class="fr-dl">⬇ Tải</span></a>`).join("")+`</div>`;
+  }
   document.getElementById("ovContent").innerHTML=`
     <div class="lhd">Lesson ${curIdx+1} of ${flatLessons.length} · ${l.section}</div>
     <div class="ltitle">${l.title}</div>
