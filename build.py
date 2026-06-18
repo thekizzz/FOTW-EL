@@ -83,6 +83,9 @@ img{max-width:100%}
 .ov-content .embed{margin:14px 0}
 .ov-content iframe{width:100%;height:420px;border:1px solid var(--line);border-radius:10px}
 .ov-content .embed-link{display:inline-block;background:var(--card);border:1px solid var(--line);border-radius:10px;padding:10px 14px;margin:8px 0;font-size:13.5px}
+.ov-content .file-bar{display:flex;align-items:center;justify-content:space-between;gap:10px;background:#fef3f2;border:1px solid #fecaca;border-radius:8px 8px 0 0;padding:8px 13px;font-size:13px;font-weight:600;color:#b91c1c}
+.ov-content .file-bar a{font-size:12.5px;color:var(--accent)}
+.ov-content .embed:has(.file-bar) iframe{border-radius:0 0 10px 10px;border-top:0;height:560px;background:#fff}
 /* curriculum sidebar phải */
 .ov-side{width:320px;background:var(--card);border-left:1px solid var(--line);overflow-y:auto;flex-shrink:0}
 .ov-side .sh{padding:16px 18px 10px;font-weight:700;font-size:15px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--card);display:flex;align-items:center;justify-content:space-between}
@@ -232,6 +235,9 @@ function renderLesson(){
   const l=flatLessons[curIdx]; if(!l)return;
   let media=(l.media||[]).map(m=>{
     if(m.type==='img')return `<img src="${m.url}" loading="lazy">`;
+    if(m.type==='pdf')return `<div class="embed"><div class="file-bar">📄 ${esc(m.name||'PDF')} <a href="${m.url}" target="_blank">Mở ↗</a></div><iframe src="${m.url}#toolbar=0" loading="lazy"></iframe></div>`;
+    if(m.type==='video')return `<video src="${m.url}" controls style="width:100%;border-radius:10px;border:1px solid var(--line);margin:14px 0"></video>`;
+    if(m.type==='file')return `<a class="embed-link" href="${m.url}" target="_blank">📎 ${esc(m.name||m.url.slice(0,50))}</a>`;
     if(/youtube|youtu\.be|vimeo|loom/.test(m.url))return `<div class="embed"><iframe src="${m.url.replace('watch?v=','embed/')}" loading="lazy" allowfullscreen></iframe></div>`;
     if(/drive\.google/.test(m.url)){const id=(m.url.match(/[-\w]{25,}/)||[])[0];return id?`<div class="embed"><iframe src="https://drive.google.com/file/d/${id}/preview" loading="lazy"></iframe></div>`:`<a class="embed-link" href="${m.url}" target="_blank">📎 ${m.url.slice(0,50)}</a>`;}
     return `<a class="embed-link" href="${m.url}" target="_blank">🔗 ${m.url.slice(0,55)}</a>`;
