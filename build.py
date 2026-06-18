@@ -167,6 +167,7 @@ img{max-width:100%}
 <div class="wrap" id="home">
   <div class="hero"><h1>Funnel Library 🔬</h1><p id="heroSub"></p></div>
   <div class="chips-wrap" id="chipsWrap"><div class="chips-lbl">Lọc theo loại funnel<button class="toggle" id="chipsToggle" onclick="toggleChips()" style="display:none">▾ Xem tất cả</button></div><div class="chips-scroller" id="chipsScroller"><div class="chips" id="chips"></div></div></div>
+  <div class="chips-wrap" id="nicheWrap"><div class="chips-lbl">Lọc theo ngách sản phẩm<button class="toggle" id="nicheToggle" onclick="toggleNiche()" style="display:none">▾ Xem tất cả</button></div><div class="chips-scroller" id="nicheScroller"><div class="chips" id="niche"></div></div></div>
   <div class="grid" id="grid"></div>
 </div>
 
@@ -187,10 +188,12 @@ img{max-width:100%}
 
 <script>
 const DATA = __DATA__;
-let activeType="all", search="", curFunnel=null, flatLessons=[], curIdx=0;
+let activeType="all", activeNiche="all", search="", curFunnel=null, flatLessons=[], curIdx=0;
 
 const TYPE_ICON={"eCom":"🛒","Info Product":"📘","Quiz":"❓","Advertorial":"📰","VSL":"🎬","eCom Quiz":"🛒","Advertorial Quiz":"📰","Book":"📚","SaaS":"💻","Call":"📞","Agency":"🏢","Lead Gen":"🎯"};
+const NICHE_ICON={"Supplements":"💊","Beauty":"💄","Skincare":"🧴","Health":"🩺","Course/Education":"🎓","Home":"🏠","Apparel":"👕","Self-Improvement":"🧠","Device/Tech":"📱","DFY/Agency":"🏢","Book":"📚","Pet":"🐶","Tactical/Survival":"🪖","Insurance":"🛡️","Entertainment":"🎬","Personal Care":"🧼","Accessories":"💍","Vehicle & Automotive":"🚗"};
 function typeCounts(){const c={};DATA.funnels.forEach(f=>c[f.type]=(c[f.type]||0)+1);return c;}
+function nicheCounts(){const c={};DATA.funnels.forEach(f=>(f.niche||[]).forEach(n=>c[n]=(c[n]||0)+1));return c;}
 function renderChips(){
   const c=typeCounts(), types=Object.keys(c).sort((a,b)=>c[b]-c[a]);
   const all=`<span class="chip ${activeType==='all'?'on':''}" onclick="setType('all')"><span class="ico">🗂️</span>Tất cả<span class="cnt">${DATA.funnels.length}</span></span>`;
@@ -198,12 +201,20 @@ function renderChips(){
     types.map(t=>`<span class="chip ${activeType===t?'on':''}" onclick="setType('${t}')"><span class="ico">${TYPE_ICON[t]||'📋'}</span>${t}<span class="cnt">${c[t]}</span></span>`).join("");
   if(typeof updateChipFade==='function') setTimeout(updateChipFade,30);
 }
+function renderNiche(){
+  const c=nicheCounts(), niches=Object.keys(c).sort((a,b)=>c[b]-c[a]);
+  const all=`<span class="chip ${activeNiche==='all'?'on':''}" onclick="setNiche('all')"><span class="ico">🌐</span>Tất cả<span class="cnt">${DATA.funnels.length}</span></span>`;
+  document.getElementById("niche").innerHTML=all+
+    niches.map(n=>`<span class="chip ${activeNiche===n?'on':''}" onclick="setNiche('${n.replace(/'/g,"\\'")}')"><span class="ico">${NICHE_ICON[n]||'🏷️'}</span>${n}<span class="cnt">${c[n]}</span></span>`).join("");
+}
 function setType(t){activeType=t;renderChips();renderGrid();}
+function setNiche(n){activeNiche=n;renderNiche();renderGrid();}
 function onSearch(v){search=v.toLowerCase();renderGrid();}
 function esc(s){return (s||"").replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
 function linkify(s){return esc(s).replace(/(https?:\/\/[^\s]+)/g,'<a href="$1" target="_blank" rel="noopener">$1</a>');}
 function renderGrid(){
   let list=DATA.funnels.filter(f=>activeType==="all"||f.type===activeType);
+  if(activeNiche!=="all") list=list.filter(f=>(f.niche||[]).includes(activeNiche));
   if(search) list=list.filter(f=>f.name.toLowerCase().includes(search)||f.rawType.toLowerCase().includes(search));
   document.getElementById("grid").innerHTML=list.map(f=>`
     <div class="card" onclick="openDetail('${f.slug}')">
@@ -284,22 +295,32 @@ function toggleChips(){
   w.classList.toggle("expanded");
   b.innerHTML=w.classList.contains("expanded")?"▴ Thu gọn":"▾ Xem tất cả";
 }
-function updateChipFade(){
-  const sc=document.getElementById("chipsScroller"), ch=document.getElementById("chips");
+function toggleNiche(){
+  const w=document.getElementById("nicheWrap"), b=document.getElementById("nicheToggle");
+  w.classList.toggle("expanded");
+  b.innerHTML=w.classList.contains("expanded")?"▴ Thu gọn":"▾ Xem tất cả";
+}
+function fadeOf(scId,chId){
+  const sc=document.getElementById(scId), ch=document.getElementById(chId);
+  if(!sc||!ch)return;
   if(ch.scrollWidth-ch.scrollLeft-ch.clientWidth<8) sc.classList.add("at-end");
   else sc.classList.remove("at-end");
 }
+function updateChipFade(){fadeOf("chipsScroller","chips");}
+function updateNicheFade(){fadeOf("nicheScroller","niche");}
 function initChipsMobile(){
   const isMobile=window.matchMedia("(max-width:680px)").matches;
   document.getElementById("chipsToggle").style.display=isMobile?"inline-flex":"none";
+  document.getElementById("nicheToggle").style.display=isMobile?"inline-flex":"none";
   if(isMobile){
     document.getElementById("chips").addEventListener("scroll",updateChipFade,{passive:true});
-    updateChipFade();
+    document.getElementById("niche").addEventListener("scroll",updateNicheFade,{passive:true});
+    updateChipFade();updateNicheFade();
   }
 }
 window.addEventListener("resize",initChipsMobile);
 document.getElementById("heroSub").textContent=`${DATA.meta.total} funnel DTC · ${DATA.meta.scraped} breakdown đầy đủ · clone nội bộ`;
-renderChips();renderGrid();initChipsMobile();
+renderChips();renderNiche();renderGrid();initChipsMobile();
 </script>
 </body>
 </html>"""
