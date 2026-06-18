@@ -91,9 +91,10 @@ img{max-width:100%}
 .ov-content .filerow:last-child{border-bottom:0}
 .ov-content .filerow:hover{background:var(--bg)}
 .ov-content .fr-ic{font-size:17px;flex-shrink:0}
-.ov-content .fr-nm{flex:1;font-size:13.5px;font-weight:500;overflow:hidden;text-overflow:ellipsis;white-space:nowrap}
-.ov-content .fr-dl{font-size:12px;font-weight:700;color:var(--accent);background:#eef2ff;border-radius:8px;padding:4px 10px;flex-shrink:0}
-.ov-content .filerow:hover .fr-dl{background:var(--accent);color:#fff}
+.ov-content .fr-nm{flex:1;font-size:13.5px;font-weight:600;color:var(--ink);overflow:hidden;text-overflow:ellipsis;white-space:nowrap;cursor:pointer}
+.ov-content .fr-nm:hover{color:var(--accent);text-decoration:underline}
+.ov-content .fr-dl{font-size:12px;font-weight:700;color:var(--accent);background:#eef2ff;border-radius:8px;padding:5px 11px;flex-shrink:0;cursor:pointer}
+.ov-content .fr-dl:hover{background:var(--accent);color:#fff}
 /* curriculum sidebar phải */
 .ov-side{width:320px;background:var(--card);border-left:1px solid var(--line);overflow-y:auto;flex-shrink:0}
 .ov-side .sh{padding:16px 18px 10px;font-weight:700;font-size:15px;border-bottom:1px solid var(--line);position:sticky;top:0;background:var(--card);display:flex;align-items:center;justify-content:space-between}
@@ -258,10 +259,10 @@ function renderLesson(){
   if(fileList.length){
     const icon=t=>t==='pdf'?'📄':'📎';
     media+=`<div class="filelist"><div class="filelist-h">📎 ${fileList.length} file đính kèm <span>(sắp theo thứ tự · bấm tải)</span></div>`+
-      fileList.map((m,idx)=>`<a class="filerow" href="${m.url}" target="_blank" download>
+      fileList.map((m,idx)=>`<div class="filerow">
         <span class="fr-ic">${icon(m.type)}</span>
-        <span class="fr-nm">${esc(m.name||('File '+(idx+1)))}</span>
-        <span class="fr-dl">⬇ Tải</span></a>`).join("")+`</div>`;
+        <a class="fr-nm" href="${m.url}" target="_blank" rel="noopener">${esc(m.name||('File '+(idx+1)))}</a>
+        <a class="fr-dl" href="${m.url}" download>⬇ Tải</a></div>`).join("")+`</div>`;
   }
   document.getElementById("ovContent").innerHTML=`
     <div class="lhd">Lesson ${curIdx+1} of ${flatLessons.length} · ${l.section}</div>
